@@ -1,6 +1,8 @@
 
 # Ejercicio Prueba Switch #
 
+# Richard Mauricio Soria Asanza #
+
 print("********** Bienvenido a las hamburguesas CARBONERO **********")
 print("Contamos con diferentes hamburguesas y métodos de pago")
 print("Ofrecemos los siguientes tipos de hamburguesas:")

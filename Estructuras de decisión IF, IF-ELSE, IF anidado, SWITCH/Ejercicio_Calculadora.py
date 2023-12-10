@@ -1,6 +1,8 @@
 
 # Ejercicio Calculadora #
 
+# Richard Mauricio Soria Asanza #
+
 print("Calculadora de operaciones básicas")
 num_1 = float(input("Ingrese el primer número:\n"))
 num_2 = float(input("Ingrese el segundo número:\n"))
@@ -13,9 +15,9 @@ potencia = num_1 ** num_2
 print("Opción 1: Suma")
 print("Opción 2: Resta")
 print("Opción 3: Multiplicación")
-print("Opción 4: División")
+print("Opción 4: División (Recuerde no se puede dividir para 0)")
 print("Opción 5: Potencia")
-print("Opción 6: Módulo")
+print("Opción 6: Módulo (Recuerde no se puede obtener el módulo para 0)")
 opcion = int(input("Ingrese la operación que desea realizar:\n"))
 
 if opcion == 4 and num_2 ==0:
