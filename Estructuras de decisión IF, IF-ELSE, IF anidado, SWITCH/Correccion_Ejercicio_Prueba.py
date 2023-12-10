@@ -1,5 +1,5 @@
 
-# Corrección Ejercicio Prueba If-Else
+# Corrección Ejercicio Prueba If-Else #
 
 print("********** Bienvenido a las hamburguesas CARBONERO **********");
 print("Contamos con diferentes hamburguesas y métodos de pago");
