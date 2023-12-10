@@ -38,7 +38,7 @@ match tipo_hamburguesa:
                         correo = str(input("Ingrese su correro electrónico:\n"))
                         print("Muchas gracias por su compra", nombre, "la factura será enviada a su correo", correo,".")
                         print("Vuelva pronto, lo estaremos esperando.")
-            print("No es un método de pago válido.")
+                 case other: print("No es un método de pago válido.")
     case 2:
             cantidad_hamburguesa = int(input("Ingrese la cantidad de hamburguesas que desea comprar:\n"))
             pago_efectivo_doble = 2.50*cantidad_hamburguesa
@@ -67,7 +67,7 @@ match tipo_hamburguesa:
                         correo = str(input("Ingrese su correro electrónico:\n"))
                         print("Muchas gracias por su compra", nombre, "la factura será enviada a su correo", correo,".")
                         print("Vuelva pronto, lo estaremos esperando.")
-            print("No es un método de pago válido.")
+                 case other: print("No es un método de pago válido.")
     case 3:
             cantidad_hamburguesa = int(input("Ingrese la cantidad de hamburguesas que desea comprar:\n"))
             pago_efectivo_triple = 3.25*cantidad_hamburguesa
@@ -96,5 +96,5 @@ match tipo_hamburguesa:
                         correo = str(input("Ingrese su correro electrónico:\n"))
                         print("Muchas gracias por su compra", nombre, "la factura será enviada a su correo", correo,".")
                         print("Vuelva pronto, lo estaremos esperando.")
-                        print("No es un método de pago válido.")
-print("Ese tipo de hamburguesa no se encuentra dentro del menú.")
+                 case other: print("No es un método de pago válido.")
+    case other: print("Ese tipo de hamburguesa no se encuentra dentro del menú.")
