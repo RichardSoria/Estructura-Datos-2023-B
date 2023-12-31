@@ -16,3 +16,4 @@ while(titulo!="*"):
     titulo = input("Ingrese el titulo del libro: ")
 print("Fin. Se leyeron", total_lineas, "líneas.")
 
+print("Richard Soria")
