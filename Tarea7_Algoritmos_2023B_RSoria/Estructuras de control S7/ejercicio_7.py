@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # En los almacenes “ETAFASHION” se van aplicar unos descuentos para el siguiente feriado en el que se rebaja el 10% del precio total de la compra si se adquieren más de 20 unidades y 5% si adquieren hasta 20 unidades, pero más de 10. Por otra parte, no hay descuento para cantidades menores o iguales a 9 unidades. Con el precio total de la compra y la cantidad adquirida de prendas realice un programa, para mostrar el nuevo valor pagar y la cantidad de prendas de vestir adquiridas.
 import os
 
@@ -37,3 +38,4 @@ while(True):
         os.system("cls")
         print("Ingrese una monto superior a $0")
 print("Richard Soria")
+print("Mateo Torres")

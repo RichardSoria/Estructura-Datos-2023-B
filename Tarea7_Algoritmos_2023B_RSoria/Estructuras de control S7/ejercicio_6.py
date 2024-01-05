@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # El día de la madre usted desea comprarle un regalo a su madre, usted visita almacenes Coral y decide comprarle varios objetos que le podrían gustar a su madre.
 import os
 
@@ -129,3 +130,4 @@ print("El subtotal de la categoría Ropa es: $", subtotal_ropa)
 total = subtotal_permuferia+subtotal_joyeria+subtotal_maquillaje+subtotal_ropa
 print("\nEL total a pagar por todo es: $",total)
 print("Richard Soria")
+print("Mateo Torres")

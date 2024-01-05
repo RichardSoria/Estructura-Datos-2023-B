@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # Se requiere programar un sensor infrarrojo de arduino para realizar un control remoto para una Smart TV, el programa requiere hacer lo siguiente: a. Implementar un menú de opciones para 9 tipo de actividades en el que el usuario ingresa el número de actividad y luego el programa muestra la actividad a realizar o en este caso sintoniza en el Smart TV la actividad a proyectar. Recuerda que son únicamente 9 actividades las que el usuario puede elegir para lo cual se debe hacer su respectiva validación.
 
 import os
@@ -49,3 +50,4 @@ while (True):
         os.system("cls")
         print("No es una opción disponible o válida")
 print("Richard Soria")
+print("Mateo Torres")

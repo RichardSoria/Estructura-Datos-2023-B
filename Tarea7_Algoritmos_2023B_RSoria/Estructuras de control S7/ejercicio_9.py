@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # En la “Escuela Politécnica Nacional” el área de Talento Humano requiere de un programa el cual, mediante la utilización de un bucle de repetición, imprima los sueldos de todos los empleados, el número de horas trabajadas y el número de aquellos que son profesores de una cantidad de N empleados que el programa debe solicitar.
 
 print("Bienvenido al programa para registrar a los empleados de la EPN")
@@ -26,3 +27,4 @@ print("El sueldo de todos los empleados de la EPN es de: $", sueldo_total)
 print("La cantidad de horas de todos los empleados es:", horas_total)
 print("La cantidad de profesores que trabajan en la EPN son:", docentes_total)
 print("Richard Soria")
+print("Mateo Torres")

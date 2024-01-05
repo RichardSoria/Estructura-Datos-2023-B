@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # El empresario “Juan Alvear” desea saber cuánto ha venido ahorrando a lo largo de todo el año, si al final de cada mes él fue depositando cantidades X de dinero. Además, él requiere saber cuánto lleva ahorrando cada mes y el total ahorrado, para lo cual la entidad bancaria “PRODUBANCO” desea un programa para ayudar a Juanito y sus demás clientes a realizar lo siguiente: a. Permitir agregar cantidades X de dinero por cada mes. b. Determinar cuánto es el total ahorrado que tiene el cliente.
 
 import os
@@ -35,3 +36,4 @@ while(True):
         os.system("cls")
         print("Ingrese una opción válida")
 print("Richard Soria")
+print("Mateo Torres")

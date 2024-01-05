@@ -1,3 +1,4 @@
+#Mateo Torres y Richard Soria
 # Se requiere un programa para la panadería “LA UNIÓN” en el cual les permita obtener la suma total del precio de N guaguas de pan que el programa debe solicitar. Además, se requiere obtener la suma de las guaguas que son de mora. Para la solución al problema el bucle de repetición (while).
 
 import os
@@ -24,3 +25,4 @@ while(True):
         print("Ingrese una cantidad superior a 0")
 print("El total a pagar por un total de", unidad, "de guaguas de pan es de: $",total_venta)
 print("Richard Soria")
+print("Mateo Torres")
