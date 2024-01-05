@@ -37,13 +37,8 @@ while(opcion!=2):
     print(f"El promedio del estudiante es {promedio}")
     if (promedio>=14):
         print("Felicitaciones, ha aprobado el curso.")
-        break
     elif(promedio>=9):
         print("Usted tiene que dar un examen supletorio.")
-        break
     else:
         print("Usted a sido rechazado.")
-        break
 print("Saliendo del sistema...")
-print("Richard Soria")
-print("Mateo Torres")
