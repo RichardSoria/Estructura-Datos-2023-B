@@ -129,4 +129,3 @@ print("El subtotal de la categoría Ropa es: $", subtotal_ropa)
 total = subtotal_permuferia+subtotal_joyeria+subtotal_maquillaje+subtotal_ropa
 print("\nEL total a pagar por todo es: $",total)
 print("Richard Soria")
-print("Mateo Torres")

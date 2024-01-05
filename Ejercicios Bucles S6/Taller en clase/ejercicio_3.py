@@ -16,3 +16,4 @@ while(True):
 print("La cantidad de números pares ingresados son:",numero_par)
 print("La cantidad de números impares ingresados son:",numero_impar)
 print("Richard Soria")
+print("Mateo Torres")

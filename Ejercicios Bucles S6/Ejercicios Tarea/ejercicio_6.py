@@ -17,3 +17,4 @@ while(titulo!="*"):
 print("Fin. Se leyeron", total_lineas, "líneas.")
 
 print("Richard Soria")
+print("Mateo Torres")

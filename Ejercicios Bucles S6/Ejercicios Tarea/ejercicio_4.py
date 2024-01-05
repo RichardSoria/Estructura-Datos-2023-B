@@ -25,3 +25,4 @@ else:
     print("Total a pagar por sus compras es: $",compras_total)
 
 print("Richard Soria")
+print("Mateo Torres")

@@ -11,3 +11,4 @@ else:
     print("El número", numero_final, "tiene una cantidad total de:", contador, "dígito.")
 
 print("Richard Soria")
+print("Mateo Torres")

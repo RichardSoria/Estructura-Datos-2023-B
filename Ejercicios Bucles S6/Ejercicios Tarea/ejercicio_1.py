@@ -17,3 +17,4 @@ while(True):
     else:
         print("Ingrese una cantidad mayor a 0")
 print("Richard Soria")
+print("Mateo Torres")

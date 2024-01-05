@@ -24,3 +24,4 @@ while(True):
 print(factorial)
 print(numero,"! =",factorial)
 print("Richard Soria")
+print("Mateo Torres")

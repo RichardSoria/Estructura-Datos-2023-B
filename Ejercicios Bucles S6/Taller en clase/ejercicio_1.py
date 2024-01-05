@@ -20,3 +20,4 @@ if(notas>=0):
 else:
     print("No se puede calcular ningun promedio con el valor ingresado")  
 print("Richard Soria")
+print("Mateo Torres")
