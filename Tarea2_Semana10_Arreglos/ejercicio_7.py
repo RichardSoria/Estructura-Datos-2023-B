@@ -17,7 +17,6 @@ tamanio_notas = len(notas)
 for i in range(0,tamanio_notas):
     if (notas[i]<14):
         materias_reprobadas.append(asignaturas[i])
-
-    
-
+        
 print("Las asignaturas a repetir por parte del estudiante son:", materias_reprobadas)
+# Richard Soria Josue Guerra Carlos Pérez
